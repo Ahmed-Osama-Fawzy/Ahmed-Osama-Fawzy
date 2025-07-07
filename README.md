@@ -5,6 +5,12 @@
 
 I'm a dedicated software engineer and full-stack developer, currently leading **Elkhayal Software Development** as CEO. I build robust and scalable web and mobile applications with a strong foundation in both software engineering principles and artificial intelligence. My goal is to create smart, efficient solutions that blend excellent UI/UX with powerful backend systems.
 
+### 📞 Contact Me
+
+📱 **Call:** [📞 0126301814](tel:0126301814)  
+💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/20126301814)  
+💼 **LinkedIn:** [Ahmed Osama Fawzy](https://www.linkedin.com/in/ahmed-osama-289bb0288/)  
+📧 **Email:** [elkhayalsoftwarecompany@gmail.com](mailto:elkhayalsoftwarecompany@gmail.com)
 ---
 
 ### 🛠️ Technologies I Use
