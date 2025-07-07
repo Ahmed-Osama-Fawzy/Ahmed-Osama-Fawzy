@@ -1,7 +1,7 @@
 ## 👤 About Me
 
-**Name:** Ahmed Osama  
-**Title:** Software Engineer | Full Stack Developer | CEO at Elkhayal Software Development  
+**Name:** Ahmed Osama Fawzy
+**Title:** Software Engineer | Full Stack Developer | **CEO at Elkhayal Software Development**
 
 I'm a dedicated software engineer and full stack developer, currently leading **Elkhayal Software Development** as CEO. I build robust and scalable web and mobile applications with a strong foundation in both software engineering principles and artificial intelligence. My goal is to create smart, efficient solutions that blend excellent UI/UX with powerful backend systems.
 
@@ -26,6 +26,9 @@ I'm a dedicated software engineer and full stack developer, currently leading **
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
 
 #### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -45,3 +48,26 @@ I'm a dedicated software engineer and full stack developer, currently leading **
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 ---
+
+### 📦 Projects
+
+#### ✅ Real Projects
+- **Elesraa for Aluminum Products** – A complete website for showcasing and managing aluminum-based services and products.
+- **Jannaty Support Services** – A modern web solution to manage and promote support services for families and individuals.
+
+#### 🧪 Demo Projects
+- **Toffee Store** – A sample e-commerce front-end application.
+- **Human Resources Management Dashboard** – A full HR interface with data tracking and employee management tools.
+- **Flight Reservation Website** – A demo site simulating the process of booking airline tickets.
+
+#### 🚧 Projects Under Construction
+- **Elesraa Lite ERP** – A lightweight ERP system tailored for small business inventory and service management (in progress).
+
+---
+
+### 📸 Image Upload Input Feature
+
+This project includes an image upload feature using a simple HTML input element:
+
+```html
+<input type="file" accept="image/*">
