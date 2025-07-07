@@ -7,10 +7,10 @@ I'm a dedicated software engineer and full-stack developer, currently leading **
 
 ### 📞 Contact Me
 
-📱 **Call:** [📞 0126301814](tel:0126301814)  
-💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/20126301814)  
-💼 **LinkedIn:** [Ahmed Osama Fawzy](https://www.linkedin.com/in/ahmed-osama-289bb0288/)  
-📧 **Email:** [elkhayalsoftwarecompany@gmail.com](mailto:elkhayalsoftwarecompany@gmail.com)
+📱 Call: [📞 0126301814](tel:0126301814)  
+💬 WhatsApp: [**Chat on WhatsApp**](https://wa.me/20126301814)  
+💼 LinkedIn: [**Ahmed Osama Fawzy**](https://www.linkedin.com/in/ahmed-osama-289bb0288/)  
+📧 Email: [**elkhayalsoftwarecompany@gmail.com**](mailto:elkhayalsoftwarecompany@gmail.com)
 ---
 
 ### 🛠️ Technologies I Use
