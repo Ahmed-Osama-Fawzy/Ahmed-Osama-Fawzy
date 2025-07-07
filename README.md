@@ -1,9 +1,9 @@
 ## 👤 About Me
 
-**Name:** Ahmed Osama Fawzy
+**Name:** Ahmed Osama Fawzy  
 **Title:** Software Engineer | Full Stack Developer | **CEO at Elkhayal Software Development**
 
-I'm a dedicated software engineer and full stack developer, currently leading **Elkhayal Software Development** as CEO. I build robust and scalable web and mobile applications with a strong foundation in both software engineering principles and artificial intelligence. My goal is to create smart, efficient solutions that blend excellent UI/UX with powerful backend systems.
+I'm a dedicated software engineer and full-stack developer, currently leading **Elkhayal Software Development** as CEO. I build robust and scalable web and mobile applications with a strong foundation in both software engineering principles and artificial intelligence. My goal is to create smart, efficient solutions that blend excellent UI/UX with powerful backend systems.
 
 ---
 
@@ -52,22 +52,17 @@ I'm a dedicated software engineer and full stack developer, currently leading **
 ### 📦 Projects
 
 #### ✅ Real Projects
-- **Elesraa for Aluminum Products** – A complete website for showcasing and managing aluminum-based services and products.
-- **Jannaty Support Services** – A modern web solution to manage and promote support services for families and individuals.
+- [**Elesraa for Aluminum Products**](https://elesraa-for-aluminum-products.vercel.app/) – A complete website for showcasing and managing aluminum-based services and products.
+- [**Jannaty Support Services**](https://www.jannatysupportservices.org/) – A modern web solution to manage and promote support services for families and individuals.
+- [**Elkhayal Software Development**](https://elkhayal-sw-development.vercel.app/) – Official website for my startup, providing software services and showcasing portfolio.
 
 #### 🧪 Demo Projects
 - **Toffee Store** – A sample e-commerce front-end application.
 - **Human Resources Management Dashboard** – A full HR interface with data tracking and employee management tools.
 - **Flight Reservation Website** – A demo site simulating the process of booking airline tickets.
+- **Library System** – A simplified digital system for managing book records, borrowers, and transactions.
 
-#### 🚧 Projects Under Construction
+#### 🚧 Real Projects Under Construction
 - **Elesraa Lite ERP** – A lightweight ERP system tailored for small business inventory and service management (in progress).
 
 ---
-
-### 📸 Image Upload Input Feature
-
-This project includes an image upload feature using a simple HTML input element:
-
-```html
-<input type="file" accept="image/*">
